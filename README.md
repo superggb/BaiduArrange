@@ -7,12 +7,19 @@
 
 # 使用示例
 C:\Users\Desktop python baiduArange.py ggb 5
+
 please waiting....
+
 page 1 finished
+
 page 2 finished
+
 page 3 finished
+
 page 4 finished
+
 page 5 finished
+
 finished
 
 
